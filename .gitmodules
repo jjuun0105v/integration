@@ -1,0 +1,6 @@
+[submodule "HIL"]
+	path = HIL
+	url = https://github.com/jjuun0105v/HIL.git
+[submodule "FTL"]
+	path = FTL
+	url = https://github.com/jjuun0105v/FTL.git
